@@ -1,7 +1,7 @@
 # Sprint_2_Project
 TripleTen Sprint 2 Final Project
 
-My second Sprint project - Sprint Length was 3 weeks.
+My Sprint 2, Exploraatory Data Analysis, project. Sprint Length was 3 weeks.
 
 Instructions as provided by TripleTen Program:
 
