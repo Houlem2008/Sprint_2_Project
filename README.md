@@ -8,15 +8,15 @@
 
 **DATASETS**
 
-instacart_orders.csv
+[instacart_orders.csv](https://drive.google.com/file/d/1xNYpvzRPnYK-rJ72uKakeSL6k0VkF57P/view)
 
-products.csv
+[products.csv](https://drive.google.com/file/d/1Os2ysN9ScOY3kwnQfN5-WeS8yUjaiJYG/view)
 
-order_products.csv
+[order_products.csv](https://drive.google.com/file/d/1wt4FpHZ7AiGvZFCuEOL3uXLN1ckagAYe/view)
 
-aisles.csv
+[aisles.csv](https://drive.google.com/file/d/12e1xpEFPizEzTTlp9_NRhlJrtUKz3k_y/view)
 
-departments.csv
+[departments.csv](https://drive.google.com/file/d/1YSLHfRdXTnM8a6HPZWZdErbT7zJaUklB/view)
 
 **TEMPLATE NOTEBOOK**
 
