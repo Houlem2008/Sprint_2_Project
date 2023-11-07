@@ -9,9 +9,13 @@
 **DATASETS**
 
 instacart_orders.csv
+
 products.csv
+
 order_products.csv
+
 aisles.csv
+
 departments.csv
 
 **TEMPLATE NOTEBOOK**
